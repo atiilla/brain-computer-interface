@@ -192,17 +192,8 @@ This project can serve as a foundation for:
 - [ ] **Mobile App**: Smartphone companion for remote monitoring
 - [ ] **Cloud Integration**: Data synchronization and sharing
 
-## Contributing
-
-Contributions are welcome! Areas for improvement:
-- Additional game modes and mechanics
-- Enhanced signal processing algorithms
-- New visualization techniques
-- Performance optimizations
-- Cross-platform compatibility improvements
 
 ## License
-
 This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
@@ -213,8 +204,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contributing
 We welcome contributions to enhance this project! Please fork the repository, make your changes, and submit a pull request.
-
-For questions, issues, or contributions, please open an issue in the repository or contact the development team.
 
 ---
 
