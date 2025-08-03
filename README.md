@@ -20,14 +20,17 @@ A Python-based Brain-Computer Interface (BCI) project that uses the MindWave EEG
 
 ### Brain-Controlled Game
 ![MindWave Game](game_mindwave.png)
+
 *Control the character using your attention and meditation levels*
 
 ### Brain Activity Visualization
 ![MindWave UI](mindwave_ui.png)
+
 *Real-time visualization of EEG signals and brain states*
 
 ### Demo in Action
 ![Demo](demo.gif)
+
 *See the brain-computer interface in action*
 
 ## Getting Started
