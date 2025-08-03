@@ -54,6 +54,9 @@ Product Link: [MindWave Mobile](https://nl.aliexpress.com/item/1005006620561995.
 ### Required Python Packages
 
 ```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
 pip install pygame pyserial
 ```
 
