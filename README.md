@@ -38,6 +38,16 @@ A Python-based Brain-Computer Interface (BCI) project that uses the MindWave EEG
 - **Python**: 3.7+ 
 - **Operating System**: Windows, macOS, or Linux
 
+### Hardware Used
+- **EEG mindwave headset**: NeuroSky MindWave Mobile EEG Headset 
+<br/>
+Product Link: [MindWave Mobile](https://nl.aliexpress.com/item/1005006620561995.html)
+<br/>
+<img src="eeg_headset.png" alt="MindWave Mobile" height="200"/>
+
+- **Bluetooth to Visual COM**: Bluetooth USB Dongle Adapter Serial Port Transparent Transmission HM-15 Beacon Base Station EDR 4.0+ BLE4.0 Dual Mode Master-Slave in One<br/>
+<img src="bluetooth-to-visualcom.jpg" alt="Bluetooth Adapter" height="200"/>
+
 ### Required Python Packages
 
 ```bash
